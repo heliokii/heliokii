@@ -33,16 +33,10 @@ Sophomore CS student based in Quezon Province, trying to write code that doesn't
 <br><br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heliokii&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Elijah's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heliokii&theme=dracula&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=heliokii&show_icons=true&include_all_commits=true&count_private=true&title_color=333333&text_color=444444&icon_color=555555&bg_color=FFFFFF&border_color=DDDDDD&hide_border=true" alt="Elijah's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heliokii&stroke=333333&ring=333333&fire=333333&currStreakNum=333333&sideNums=333333&sideLabels=333333&dates=333333&background=FFFFFF&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heliokii&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" width="60%" />
-</div>
-
-<br>
-
-<div align="center">
-  <i>“Clean code is a myth. Mine is just... urban legend.”</i> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heliokii&layout=compact&title_color=333333&text_color=444444&icon_color=555555&bg_color=FFFFFF&border_color=DDDDDD&hide_border=true&langs_count=8" alt="Top Languages" width="60%" />
 </div>
