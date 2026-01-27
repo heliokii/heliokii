@@ -1,46 +1,42 @@
 <div align="center">
-  <h1>🌪️ heliokii</h1>
-  <p><i>sophomore cs student trying not to break production (yet)</i></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00C4B4&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Elijah;CS+Sophomore+%F0%9F%8C%8C;Makati-based+Code+Adventurer" alt="Typing SVG" />
 </div>
 
-💫 **about me**
-
-hey, i'm elijah (or just heliokii — pick whichever hurts less to type).  
-i'm currently in quezon province pretending i understand operating systems while surviving on original nescafe 3in1 and creatine monohydrates.  
-
-i write code that sometimes works. when it doesn't, it's obviously a feature.  
-my specialties include: over-engineering to-do lists, debugging at 2 a.m., and collecting 47 tabs about "rust vs go 2026".
-
-currently grinding fundamentals in january because new year = new me (lies).
-
-if my commits look cursed at 3am, no you didn't see that. that was future me. present me has plausible deniability.
-
-welcome to my digital mess — bugs compile eventually ✨
-
-💻 **tech i'm wrestling with right now**
-
-- python (comfort zone)  
-- java (forced to love it for the sake of CS 211)  
-- c/c++ (i understand pointers)  
-- a little rust (i'm scared but intrigued)  
-- html/css/js when i pretend to be frontend  
-
-📊 **where you can find me**
-
-- linkedin → [https://www.linkedin.com/in/elijah-oreste-8b25a22a4/]  
-- email → [eliiorestea@gmail.com]  
-- discord → [helioki]
-
-<!-- optional fun stats - replace YOUR_USERNAME -->
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heliokii&show_icons=true&theme=dracula&hide_border=true" alt="github stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heliokii&theme=dracula&hide_border=true" alt="streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=heliokii&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Elijah's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heliokii&theme=dracula&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
-<!-- feel free to delete or comment out the stats if you want it more minimal like katniis -->
+<br>
 
-<p align="center">
-  <i>chaos in commits • caffeine in veins • send help (or coffee)</i>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heliokii&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" width="60%" />
+</div>
+
+---
+
+### 🌌 About Me
+
+Sophomore trying to make clean code and bad decisions (mostly the former).  
+Currently surviving OS lectures, HackerRank pain, and existential crises over coffee in Quezon Province.
+
+- 🔭 Currently strengthening fundamentals (January 2026 grind)
+- 🌱 Exploring unity & more that can enhance my skill (or keep me busy)
+- ⚡ Fun fact: I once debugged for 22 minutes because of a missing semicolon
+- 📫 Reach me: [eliiorestea@gmail.com] | [https://www.linkedin.com/in/elijah-oreste-8b25a22a4/]
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</div>
+
+---
+
+✨ *“If this don't work, i will hop on valorant.”* ✨
