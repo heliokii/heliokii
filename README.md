@@ -33,10 +33,10 @@ Sophomore CS student based in Quezon Province, trying to write code that doesn't
 <br><br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heliokii&show_icons=true&include_all_commits=true&count_private=true&title_color=FFFFFF&text_color=EEEEEE&icon_color=DDDDDD&bg_color=000000&border_color=333333&hide_border=true" alt="Elijah's GitHub stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=heliokii" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=heliokii&show_icons=true&include_all_commits=true&count_private=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=FFFFFF&border_color=CCCCCC&hide_border=true" alt="Elijah's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heliokii&theme=transparent&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&sideLabels=000000&dates=000000&background=FFFFFF&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heliokii&layout=compact&title_color=FFFFFF&text_color=EEEEEE&icon_color=DDDDDD&bg_color=000000&border_color=333333&hide_border=true&langs_count=8" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heliokii&layout=compact&title_color=000000&text_color=000000&icon_color=000000&bg_color=FFFFFF&border_color=CCCCCC&hide_border=true&langs_count=8" alt="Top Languages" width="60%" />
 </div>
