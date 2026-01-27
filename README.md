@@ -34,7 +34,7 @@ Sophomore CS student based in Quezon Province, trying to write code that doesn't
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=heliokii&show_icons=true&include_all_commits=true&count_private=true&title_color=FFFFFF&text_color=EEEEEE&icon_color=DDDDDD&bg_color=000000&border_color=333333&hide_border=true" alt="Elijah's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heliokii&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&background=000000&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=heliokii" alt="GitHub Streak" />
 </div>
 
 <div align="center">
