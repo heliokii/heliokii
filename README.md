@@ -44,5 +44,5 @@ Sophomore CS student based in Quezon Province, trying to write code that doesn't
 <br>
 
 <div align="center">
-  <i>“Clean code is a myth. Mine is just... urban legend.”</i> ✨
+  <i>“Clean code is a myth. Mine is just... urban legend.”</i> 
 </div>
