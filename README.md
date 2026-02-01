@@ -28,7 +28,7 @@ Sophomore CS student based in Quezon Province, trying to write code that doesn't
 <br><br>
 
 ### 🚀 Recent Projects
-- **[January-StrengthenFundas](https://github.com/heliokii/January-StrengthenFundas)**: A personal New Year's challenge focused on strengthening programming fundamentals. Includes daily problem-solving from LeetCode/HackerRank, from-scratch implementations of data structures, and a mini To-Do List project. Primarily in PHP.
+- **[January-StrengthenFundas](https://github.com/heliokii/January-StrengthenFundas)**: A personal New Year's challenge focused on strengthening programming fundamentals. Includes daily problem-solving from HackerRank and from-scratch implementations of data structures.
 - **[DiegoCoffee-PH](https://github.com/heliokii/DiegoCoffee-PH)**: An in-development project for a coffee shop application, likely involving web development with PHP and databases.
 
 <br><br>
