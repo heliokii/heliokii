@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&size=32&duration=3500&pause=1200&color=00C4B4&center=true&vCenter=true&width=480&lines=I'm+heliokii%2C+a+CS+sophomore" alt="Typing SVG" />
 </div>
 <br><br>
+
 ### 🌌 About Me
 Hey, I'm Elijah (heliokii).
 Sophomore CS student based in Quezon Province, trying to write code that doesn't break on the first Tuesday of the month.
@@ -9,6 +10,7 @@ Sophomore CS student based in Quezon Province, trying to write code that doesn't
 - 🌱 Currently exploring: systems programming & better habits
 - ⚡ Fun fact: I yap nonstop to people im close with
 - 📫 Say hi: [Email: eliiorestea@gmail.com / LinkedIn: https://www.linkedin.com/in/elijah-oreste-8b25a22a4/ / Discord: Helioki / Facebook: https://www.facebook.com/elijahemmanuel.oreste/ / Instagram: https://www.instagram.com/elijahmanue/]
+
 ### 🛠️ Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
