@@ -1,21 +1,15 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&size=32&duration=3500&pause=1200&color=00C4B4&center=true&vCenter=true&width=480&lines=I'm+heliokii%2C+a+CS+sophomore" alt="Typing SVG" />
 </div>
-
 <br><br>
-
 ### 🌌 About Me
-
-Hey, I'm Elijah (heliokii).  
+Hey, I'm Elijah (heliokii).
 Sophomore CS student based in Quezon Province, trying to write code that doesn't break on the first Tuesday of the month.
-
-- 🔭 January 2026 grind: strengthening fundamentals
+- 🔭 February 2026 grind: applying fundamentals in projects
 - 🌱 Currently exploring: systems programming & better habits
 - ⚡ Fun fact: I yap nonstop to people im close with
-- 📫 Say hi: [Email: eliiorestea@gmail.com / LinkedIn: https://www.linkedin.com/in/elijah-oreste-8b25a22a4/ / Discord: Helioki]
-
+- 📫 Say hi: [Email: eliiorestea@gmail.com / LinkedIn: https://www.linkedin.com/in/elijah-oreste-8b25a22a4/ / Discord: Helioki / Facebook: https://www.facebook.com/elijahemmanuel.oreste/ / Instagram: https://www.instagram.com/elijahmanue/]
 ### 🛠️ Tech Stack
-
 <div align="center">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -29,14 +23,17 @@ Sophomore CS student based in Quezon Province, trying to write code that doesn't
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
 </div>
-
 <br><br>
 
+### 🚀 Recent Projects
+- **[January-StrengthenFundas](https://github.com/heliokii/January-StrengthenFundas)**: A personal New Year's challenge focused on strengthening programming fundamentals. Includes daily problem-solving from LeetCode/HackerRank, from-scratch implementations of data structures, and a mini To-Do List project. Primarily in PHP.
+- **[DiegoCoffee-PH](https://github.com/heliokii/DiegoCoffee-PH)**: An in-development project for a coffee shop application, likely involving web development with PHP and databases.
+
+<br><br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=heliokii&show_icons=true&include_all_commits=true&count_private=true&title_color=FFFFFF&text_color=EEEEEE&icon_color=DDDDDD&bg_color=000000&border_color=333333&hide_border=true" alt="Elijah's GitHub stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=heliokii&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&background=000000&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heliokii&layout=compact&title_color=FFFFFF&text_color=EEEEEE&icon_color=DDDDDD&bg_color=000000&border_color=333333&hide_border=true&langs_count=8" alt="Top Languages" width="60%" />
 </div>
