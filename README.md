@@ -39,15 +39,13 @@ Sophomore CS student based in Quezon Province, trying to write code that doesn't
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heliokii&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00C4B4&icon_color=00C4B4&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heliokii&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00C4B4&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=heliokii&show_icons=true&theme=transparent&hide_border=true&title_color=00C4B4&icon_color=00C4B4&text_color=FFFFFF&bg_color=00000000" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heliokii&layout=compact&theme=transparent&hide_border=true&title_color=00C4B4&text_color=FFFFFF&bg_color=00000000&langs_count=8" alt="Top Languages" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heliokii&theme=dark&hide_border=true&background=0D1117&ring=00C4B4&fire=00C4B4&currStreakLabel=00C4B4&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=heliokii&theme=transparent&hide_border=true&ring=00C4B4&fire=00C4B4&currStreakLabel=00C4B4&background=00000000" alt="GitHub Streak" width="60%" />
 </div>
-
-<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=heliokii&color=00C4B4&style=flat-square&label=Profile+Views" alt="Profile Views" />
