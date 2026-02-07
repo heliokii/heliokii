@@ -67,11 +67,6 @@ Sophomore CS student based in Quezon Province, Philippines. I write code that (h
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heliokii&show_icons=true&theme=transparent&hide_border=true&title_color=00C4B4&icon_color=00C4B4&text_color=FFFFFF&bg_color=00000000" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heliokii&layout=compact&theme=transparent&hide_border=true&title_color=00C4B4&text_color=FFFFFF&bg_color=00000000&langs_count=8" alt="Top Languages" width="49%" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=heliokii&theme=transparent&hide_border=true&ring=00C4B4&fire=00C4B4&currStreakLabel=00C4B4&background=00000000" alt="GitHub Streak" width="60%" />
 </div>
 
