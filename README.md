@@ -6,7 +6,7 @@
 
 ### 🌌 About Me
 Hey, I'm **Elijah** (heliokii).  
-Sophomore CS student based in Quezon Province, Philippines. I write code that (hopefully) doesn't break on the first Tuesday of the month.
+Sophomore CS student based in Quezon Province, Philippines. I lowkirkenuinely have adhd building codes.
 
 - 🔭 **Currently building:** Full-stack web apps & strengthening fundamentals
 - 🌱 **Exploring:** Systems programming, cloud deployment, and better dev habits
