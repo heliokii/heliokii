@@ -8,8 +8,8 @@
 Hey, I'm **Elijah** (heliokii).  
 Sophomore CS student based in Quezon Province, Philippines. I lowkirkenuinely have adhd building codes.
 
-- 🔭 **Currently building:** Full-stack web apps & strengthening fundamentals
-- 🌱 **Exploring:** Systems programming, cloud deployment, and better dev habits
+- 🔭 **Currently building:** web apps & strengthening fundamentals
+- 🌱 **Exploring:** Game dev (Unity)
 - ⚡ **Fun fact:** I yap nonstop to people I'm close with
 - 📫 **Let's connect:** [Email](mailto:eliiorestea@gmail.com) • [LinkedIn](https://www.linkedin.com/in/elijah-oreste-8b25a22a4/) • Discord: Helioki • [Facebook](https://www.facebook.com/elijahemmanuel.oreste/) • [Instagram](https://www.instagram.com/elijahmanue/)
 
