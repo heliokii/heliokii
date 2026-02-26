@@ -85,10 +85,6 @@ I run a personal monthly coding challenge series to sharpen my fundamentals one 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=heliokii&theme=transparent&hide_border=true&ring=00C4B4&fire=00C4B4&currStreakLabel=00C4B4&background=00000000)](https://git.io/streak-stats)
 
-![heliokii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=heliokii&show_icons=true&theme=transparent&hide_border=true&title_color=00C4B4&icon_color=00C4B4&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heliokii&layout=compact&theme=transparent&hide_border=true&title_color=00C4B4&text_color=ffffff)
-
 [![Profile Views](https://komarev.com/ghpvc/?username=heliokii&color=00C4B4&style=flat-square&label=Profile+Views)](https://github.com/heliokii)
 
 </div>
