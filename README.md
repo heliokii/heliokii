@@ -5,14 +5,14 @@
 
 ---
 
-### 🌌 About Me
+### About Me
 
 Hey, I'm **Elijah** (heliokii) — a CS sophomore at **Batangas State University**, based in Quezon Province, Philippines. I genuinely have ADHD for building things (the good kind, mostly).
 
-- 🔭 **Currently building:** full-stack web apps & grinding fundamentals month by month
-- 🌱 **Exploring:** Game dev (Unity + C#) & core language mastery
-- ⚡ **Fun fact:** I yap nonstop to people I'm close with
-- 📫 **Let's connect:**
+- **Currently building:** full-stack web apps & grinding fundamentals month by month
+- **Exploring:** Game dev (Unity + C#) & core language mastery
+- **Fun fact:** I yap nonstop to people I'm close with
+- **Let's connect:**
   [Email](mailto:eliiorestea@gmail.com) • [LinkedIn](https://www.linkedin.com/in/elijah-oreste-8b25a22a4/) • Discord: **Helioki** • [Facebook](https://www.facebook.com/elijahemmanuel.oreste/) • [Instagram](https://www.instagram.com/elijahmanue/)
 
 ---
@@ -54,7 +54,7 @@ Hey, I'm **Elijah** (heliokii) — a CS sophomore at **Batangas State University
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
