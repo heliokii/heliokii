@@ -17,7 +17,7 @@ Hey, I'm **Elijah** (heliokii) — a CS sophomore at **Batangas State University
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages & Core:**
 
@@ -60,13 +60,13 @@ Hey, I'm **Elijah** (heliokii) — a CS sophomore at **Batangas State University
 |---------|-------------|------------|
 | **[DiegoCoffee-PH](https://github.com/heliokii/DiegoCoffee-PH)** | Full-stack web app for Diego Coffee & Cocktail Studio. Features interactive menu, store locator, and vibrant single-page experience. | `Next.js` `Express.js` `Tailwind CSS` `MongoDB` `TypeScript` |
 | **[Cube-It](https://github.com/heliokii/Cube-It)** | CPC (Cube Path Clearing) — a CLI game built from scratch in C#. | `C#` `CLI` `Game Dev` |
-| **[teana-valentines](https://github.com/heliokii/teana-valentines)** | A website made for my beloved. ❤️ | `JavaScript` |
+| **[teana-valentines](https://github.com/heliokii/teana-valentines)** | A website made for my beloved. | `JavaScript` |
 | **[February-MasterCoreLanguage](https://github.com/heliokii/February-MasterCoreLanguage)** | Monthly challenge focused on core language mastery and clean, maintainable code. | `C#` `Clean Code` |
 | **[January-StrengthenFundas](https://github.com/heliokii/January-StrengthenFundas)** | New Year's coding challenge — daily problem-solving from HackerRank + from-scratch data structures. | `Java` `Python` `C++` `Algorithms` |
 
 ---
 
-### 📅 Monthly Challenge Series
+### Monthly Challenge Series
 
 I run a personal monthly coding challenge series to sharpen my fundamentals one domain at a time:
 
@@ -79,7 +79,7 @@ I run a personal monthly coding challenge series to sharpen my fundamentals one 
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
