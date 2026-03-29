@@ -1,0 +1,104 @@
+<svg viewBox="0 0 860 200" xmlns="http://www.w3.org/2000/svg" width="860" height="200">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&amp;display=swap');
+
+      .bg { fill: #0d1117; }
+      .ascii { 
+        font-family: 'Share Tech Mono', 'Courier New', monospace;
+        font-size: 13.5px;
+        fill: #ffffff;
+        white-space: pre;
+      }
+      .sub {
+        font-family: 'Share Tech Mono', 'Courier New', monospace;
+        font-size: 12px;
+        fill: #ffffff;
+        opacity: 0;
+      }
+      .cursor {
+        fill: #ffffff;
+        opacity: 0;
+      }
+
+      /* Glow filter */
+      .glow { filter: url(#glow); }
+
+      /* Per-row typewriter: reveal via clip-path width animation */
+      .row { opacity: 0; }
+
+      .row1 { animation: fadeRow 0.08s ease forwards; animation-delay: 0.1s; }
+      .row2 { animation: fadeRow 0.08s ease forwards; animation-delay: 0.28s; }
+      .row3 { animation: fadeRow 0.08s ease forwards; animation-delay: 0.46s; }
+      .row4 { animation: fadeRow 0.08s ease forwards; animation-delay: 0.64s; }
+      .row5 { animation: fadeRow 0.08s ease forwards; animation-delay: 0.82s; }
+      .row6 { animation: fadeRow 0.08s ease forwards; animation-delay: 1.00s; }
+
+      .sub { animation: fadeRow 0.3s ease forwards; animation-delay: 1.4s; }
+
+      .cursor { animation: fadeRow 0.05s ease forwards, blink 0.9s step-end infinite; animation-delay: 1.4s, 1.45s; }
+
+      /* Pulse glow on the whole block after it appears */
+      .ascii-group { animation: pulseGlow 3s ease-in-out infinite; animation-delay: 2s; }
+
+      @keyframes fadeRow {
+        from { opacity: 0; transform: translateX(-6px); }
+        to   { opacity: 1; transform: translateX(0); }
+      }
+
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50%       { opacity: 0; }
+      }
+
+      @keyframes pulseGlow {
+        0%, 100% { filter: url(#glow); }
+        50%      { filter: url(#glowBright); }
+      }
+    </style>
+
+    <!-- Soft glow -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <!-- Bright glow for pulse -->
+    <filter id="glowBright" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Scanline overlay -->
+    <pattern id="scanlines" x="0" y="0" width="860" height="4" patternUnits="userSpaceOnUse">
+      <rect width="860" height="2" fill="rgba(0,0,0,0.18)"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect class="bg" width="860" height="200" rx="8"/>
+
+  <!-- Scanline texture -->
+  <rect width="860" height="200" rx="8" fill="url(#scanlines)" opacity="0.5"/>
+
+  <!-- ASCII art block -->
+  <g class="ascii-group glow" transform="translate(30, 20)">
+    <text class="ascii row row1" x="0" y="24">██╗  ██╗███████╗██╗     ██╗ ██████╗ ██╗  ██╗██╗██╗</text>
+    <text class="ascii row row2" x="0" y="42">██║  ██║██╔════╝██║     ██║██╔═══██╗██║ ██╔╝██║██║</text>
+    <text class="ascii row row3" x="0" y="60">███████║█████╗  ██║     ██║██║   ██║█████╔╝ ██║██║</text>
+    <text class="ascii row row4" x="0" y="78">██╔══██║██╔══╝  ██║     ██║██║   ██║██╔═██╗ ██║╚═╝</text>
+    <text class="ascii row row5" x="0" y="96">██║  ██║███████╗███████╗██║╚██████╔╝██║  ██╗██║██╗</text>
+    <text class="ascii row row6" x="0" y="114">╚═╝  ╚═╝╚══════╝╚══════╝╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝</text>
+  </g>
+
+  <!-- Subtitle line -->
+  <text class="sub" x="30" y="158">CS sophomore · nonstop yapper · 02</text>
+
+  <!-- Blinking cursor -->
+  <rect class="cursor" x="30" y="165" width="9" height="2" rx="1"/>
+</svg>
