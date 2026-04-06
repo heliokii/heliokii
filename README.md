@@ -16,17 +16,17 @@
 <tr>
 <td width="50%" valign="top">
 
-### 👾 About Me
+###  About Me
 
 Hey, I'm **Elijah** — a CS sophomore at **Batangas State University**, based in Quezon Province, Philippines. I genuinely have ADHD for building things.
 
-- 🔨 **Building:** vibe coded full-stack web apps & grinding fundamentals month by month
-- 🎮 **Exploring:** Game dev (Unity + C#) & core language mastery
-- 💬 **Fun fact:** I yap nonstop to people I'm close with
+-  **Building:** vibe coded full-stack web apps & grinding fundamentals month by month
+-  **Exploring:** Game dev (Unity + C#) & core language mastery
+-  **Fun fact:** I yap nonstop to people I'm close with
 
 ---
 
-### 📅 Monthly Challenge Series
+###  Monthly Challenge Series
 
 Personal challenges to sharpen my fundamentals — one domain at a time.
 
@@ -39,7 +39,7 @@ Personal challenges to sharpen my fundamentals — one domain at a time.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=heliokii&theme=transparent&hide_border=true&ring=00C4B4&fire=00C4B4&currStreakLabel=00C4B4&background=00000000)](https://git.io/streak-stats)
 
@@ -48,7 +48,7 @@ Personal challenges to sharpen my fundamentals — one domain at a time.
 </td>
 <td width="50%" valign="top">
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages & Core**
 
@@ -89,13 +89,13 @@ Personal challenges to sharpen my fundamentals — one domain at a time.
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[☕ DiegoCoffee-PH](https://github.com/heliokii/DiegoCoffee-PH)**
+**[DiegoCoffee-PH](https://github.com/heliokii/DiegoCoffee-PH)**
 
 Full-stack web app for Diego Coffee & Cocktail Studio. Features interactive menu, store locator, and a vibrant single-page experience.
 
@@ -115,7 +115,7 @@ CPC (Cube Path Clearing) — a CLI game built from scratch in C#. Pure terminal,
 <tr>
 <td width="50%" valign="top">
 
-**[💌 teana-valentines](https://github.com/heliokii/teana-valentines)**
+**[teana-valentines](https://github.com/heliokii/teana-valentines)**
 
 A website made for my beloved. Sometimes you build for people, not portfolios.
 
@@ -124,7 +124,7 @@ A website made for my beloved. Sometimes you build for people, not portfolios.
 </td>
 <td width="50%" valign="top">
 
-**[📚 January-StrengthenFundas](https://github.com/heliokii/January-StrengthenFundas)**
+**[January-StrengthenFundas](https://github.com/heliokii/January-StrengthenFundas)**
 
 Daily problem-solving from HackerRank + from-scratch data structures. New Year's coding grind.
 
