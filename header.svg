@@ -97,7 +97,7 @@
   </g>
 
   <!-- Subtitle line -->
-  <text class="sub" x="30" y="158">CS sophomore · nonstop yapper · 02</text>
+  <text class="sub" x="30" y="158">CS sophomore · 02</text>
 
   <!-- Blinking cursor -->
   <rect class="cursor" x="30" y="165" width="9" height="2" rx="1"/>
