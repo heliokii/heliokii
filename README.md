@@ -18,9 +18,9 @@
 
 ### 👾 About Me
 
-Hey, I'm **Elijah** — a CS sophomore at **Batangas State University**, based in Quezon Province, Philippines. I genuinely have ADHD for building things *(the good kind, mostly)*.
+Hey, I'm **Elijah** — a CS sophomore at **Batangas State University**, based in Quezon Province, Philippines. I genuinely have ADHD for building things.
 
-- 🔨 **Building:** full-stack web apps & grinding fundamentals month by month
+- 🔨 **Building:** vibe coded full-stack web apps & grinding fundamentals month by month
 - 🎮 **Exploring:** Game dev (Unity + C#) & core language mastery
 - 💬 **Fun fact:** I yap nonstop to people I'm close with
 
