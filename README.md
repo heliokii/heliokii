@@ -18,7 +18,7 @@
 
 ###  About Me
 
-Hey, I'm **Elijah** — a CS sophomore at **Batangas State University**, based in Quezon Province, Philippines. I genuinely have ADHD for building things.
+Hey, I'm **Elijah** — a CS sophomore at **Batangas State University**, based in Quezon Province, Philippines. My nickname helioki comes from the greek word sun.
 
 ---
 
